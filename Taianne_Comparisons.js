@@ -36,16 +36,19 @@ console.log("is numberStudents greater than or equal to 21?", numberStudents >= 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain. 
-// This code will determine true
+// Here we have the variables declared first, and assigned to its value.
+// the comparison wil check if the value of ''Friends'' is greater than the value of ''siblings''.
+//since it is, "console.loog" output will return ''true'' because there are more "friends" than "siblings". 
 console.log (6 > 2);
-// This determine true and prit on the console
+// "console.loog" output will return ''true'' because there are more "friends" than "siblings"
+
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain. 
-// This determines false and print on the console 
+// in this line we have the number of "attendees" and "meals" declared and assigned to its value.
+// comparison will check if the number of "attendees" isn't the same as "meals"
+// "console.log" will print "true" since the number of "attendees" isn't the same as "meals"
 
 
 // #-------------------
